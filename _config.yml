@@ -113,9 +113,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "sujinpyo96@gmail.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://sujin-pyo.github.io/"
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/sujin-pyo-0282211a9/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sujin-pyo"
@@ -123,9 +123,13 @@ author:
 # Site Footer
 footer:
   links:
+    - label: "Linkedin"
+      icon: "fas fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/sujin-pyo-0282211a9/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://sujin-pyo.github.io/"
+    
 
 # Reading Files
 include:
