@@ -114,7 +114,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: "sujinpyo96@gmail.com"
     - label: "Linkedin"
-      icon: "fas fa-fw fa-linkedin-square"
+      icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sujin-pyo-0282211a9/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
